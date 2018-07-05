@@ -1,0 +1,65 @@
+#nav-top{
+	border-radius:0;
+	margin-bottom:0;
+}
+.content-padding{
+	padding:60px 50px;
+}
+.tom-main-div{
+	padding: 140px 35px 150px;
+	position: relative;
+}
+.main-heading{
+	color: #fff;
+	position: relative;
+}
+.overlay{
+	background: rgba(0,0,0,0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.about-us{
+	background: #f5f5f5;
+}
+.about-us input, .about-us textarea{
+	border-radius: 0;
+	border: 1px solid #000;
+}
+.footer{
+	background-color: #444;
+	color: blue;
+	padding: 40px;
+
+}
+.footer-inner p{
+	display: inline;
+}
+.section-heading{
+	text-transform: uppercase;
+	margin-bottom: 5px;
+}
+.footer-inner a{
+	color: #fff;
+	padding: 10px;
+	font-size: 5px;
+}
+.thumbnail{
+	border-radius: 0;
+}
+.portfolio{
+	background: #333;
+	color: #fff;
+}
+.mix-button{
+	margin-bottom: 2%;
+}
+.control{
+	color: #000; 
+	border-radius: 0; 
+}
+.style-font h1{
+	font-family: 'Pacifico', cursive;
+}
